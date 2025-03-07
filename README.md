@@ -32,7 +32,7 @@ Bibliotecas
 
 ## 💻 Projeto
 
-TravelGram é uma portal de viagens no formato One Page, responsiva, para uso pessoal . Contém as seguintes seções: Header, Navigation, Home, Sobre e Footer
+TravelGram é uma perfil de viagens no formato One Page, responsiva, para uso pessoal . Contém as seguintes seções: Header, Navigation, Home, Sobre e Footer
 
 ## 🔖 Layout
 
