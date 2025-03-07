@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="News-Portal" src=".github/Thumbnail.svg" width="100%">
+  <img alt="TravelGram" src=".github/Thumbnail.svg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,11 +32,11 @@ Bibliotecas
 
 ## 💻 Projeto
 
-News-Portal é uma portal de noticias no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre e Footer
+TravelGram é uma portal de viagens no formato One Page, responsiva, para uso pessoal . Contém as seguintes seções: Header, Navigation, Home, Sobre e Footer
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://pedropks.github.io/News-Portal-2025/). 
+Você pode visualizar o layout do projeto através [desse link](https://pedropks.github.io/TravelGram-2025/). 
 
 ## 📝 Licença
 
